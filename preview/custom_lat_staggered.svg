@@ -1,0 +1,467 @@
+<svg width="840px" height="300px" viewBox="0 0 840 300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <style type='text/css'>
+      .keycap .outer { fill: #1e1e2e; }
+      .keycap .inner { fill: #313244; stroke: #45475a; }
+      .label { font: 12px monospace; }
+      .label.level1 { fill: #cdd6f4; }
+      .label.level2 { fill: #94e2d5; }
+      .label.level3 { fill: #f38ba8; }
+      .label.level4 { fill: #89b4fa; }
+    </style>
+    <g transform="translate(10,10)">
+      <rect width="820" height="280" stroke="#cdd6f4" stroke-width="1" fill="#11111b" rx="6"/>
+      <g transform='translate(5,5)'>
+        <g class="keycap">
+          <rect x="1" y="1" width="52" height="52" rx="5" class="outer"/>
+            <rect x="7" y="4" width="40" height="40" rx="5" class="inner"/>
+            <text x="9.0" y="38.0" class="label level1">"</text>
+            <text x="9.0" y="21.0" class="label level2">'</text>
+            <text x="26.0" y="38.0" class="label level3">«</text>
+            <text x="26.0" y="21.0" class="label level4">»</text>
+        </g>
+        <g class="keycap">
+          <rect x="55" y="1" width="52" height="52" rx="5" class="outer"/>
+            <rect x="61" y="4" width="40" height="40" rx="5" class="inner"/>
+            <text x="63.0" y="38.0" class="label level1">1</text>
+            <text x="63.0" y="21.0" class="label level2">!</text>
+            <text x="80.0" y="38.0" class="label level3"></text>
+            <text x="80.0" y="21.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="109" y="1" width="52" height="52" rx="5" class="outer"/>
+            <rect x="115" y="4" width="40" height="40" rx="5" class="inner"/>
+            <text x="117.0" y="38.0" class="label level1">2</text>
+            <text x="117.0" y="21.0" class="label level2">@</text>
+            <text x="134.0" y="38.0" class="label level3"></text>
+            <text x="134.0" y="21.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="163" y="1" width="52" height="52" rx="5" class="outer"/>
+            <rect x="169" y="4" width="40" height="40" rx="5" class="inner"/>
+            <text x="171.0" y="38.0" class="label level1">3</text>
+            <text x="171.0" y="21.0" class="label level2">#</text>
+            <text x="188.0" y="38.0" class="label level3">№</text>
+            <text x="188.0" y="21.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="217" y="1" width="52" height="52" rx="5" class="outer"/>
+            <rect x="223" y="4" width="40" height="40" rx="5" class="inner"/>
+            <text x="225.0" y="38.0" class="label level1">4</text>
+            <text x="225.0" y="21.0" class="label level2">$</text>
+            <text x="242.0" y="38.0" class="label level3">€</text>
+            <text x="242.0" y="21.0" class="label level4">₽</text>
+        </g>
+        <g class="keycap">
+          <rect x="271" y="1" width="52" height="52" rx="5" class="outer"/>
+            <rect x="277" y="4" width="40" height="40" rx="5" class="inner"/>
+            <text x="279.0" y="38.0" class="label level1">5</text>
+            <text x="279.0" y="21.0" class="label level2">%</text>
+            <text x="296.0" y="38.0" class="label level3"></text>
+            <text x="296.0" y="21.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="325" y="1" width="52" height="52" rx="5" class="outer"/>
+            <rect x="331" y="4" width="40" height="40" rx="5" class="inner"/>
+            <text x="333.0" y="38.0" class="label level1">6</text>
+            <text x="333.0" y="21.0" class="label level2">^</text>
+            <text x="350.0" y="38.0" class="label level3"></text>
+            <text x="350.0" y="21.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="379" y="1" width="52" height="52" rx="5" class="outer"/>
+            <rect x="385" y="4" width="40" height="40" rx="5" class="inner"/>
+            <text x="387.0" y="38.0" class="label level1">7</text>
+            <text x="387.0" y="21.0" class="label level2">?</text>
+            <text x="404.0" y="38.0" class="label level3"></text>
+            <text x="404.0" y="21.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="433" y="1" width="52" height="52" rx="5" class="outer"/>
+            <rect x="439" y="4" width="40" height="40" rx="5" class="inner"/>
+            <text x="441.0" y="38.0" class="label level1">8</text>
+            <text x="441.0" y="21.0" class="label level2">*</text>
+            <text x="458.0" y="38.0" class="label level3"></text>
+            <text x="458.0" y="21.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="487" y="1" width="52" height="52" rx="5" class="outer"/>
+            <rect x="493" y="4" width="40" height="40" rx="5" class="inner"/>
+            <text x="495.0" y="38.0" class="label level1">9</text>
+            <text x="495.0" y="21.0" class="label level2">(</text>
+            <text x="512.0" y="38.0" class="label level3"></text>
+            <text x="512.0" y="21.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="541" y="1" width="52" height="52" rx="5" class="outer"/>
+            <rect x="547" y="4" width="40" height="40" rx="5" class="inner"/>
+            <text x="549.0" y="38.0" class="label level1">0</text>
+            <text x="549.0" y="21.0" class="label level2">)</text>
+            <text x="566.0" y="38.0" class="label level3"></text>
+            <text x="566.0" y="21.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="595" y="1" width="52" height="52" rx="5" class="outer"/>
+            <rect x="601" y="4" width="40" height="40" rx="5" class="inner"/>
+            <text x="603.0" y="38.0" class="label level1">-</text>
+            <text x="603.0" y="21.0" class="label level2">_</text>
+            <text x="620.0" y="38.0" class="label level3">—</text>
+            <text x="620.0" y="21.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="649" y="1" width="52" height="52" rx="5" class="outer"/>
+            <rect x="655" y="4" width="40" height="40" rx="5" class="inner"/>
+            <text x="657.0" y="38.0" class="label level1">=</text>
+            <text x="657.0" y="21.0" class="label level2">+</text>
+            <text x="674.0" y="38.0" class="label level3">‐</text>
+            <text x="674.0" y="21.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="703" y="1" width="106" height="52" rx="5" class="outer"/>
+            <rect x="709" y="4" width="94" height="40" rx="5" class="inner"/>
+            <text x="740.0" y="28.0" class="label level1">BKSPC</text>
+        </g>
+        <g class="keycap">
+          <rect x="1" y="55" width="79" height="52" rx="5" class="outer"/>
+            <rect x="7" y="58" width="67" height="40" rx="5" class="inner"/>
+            <text x="18.0" y="84.0" class="label level1">TAB</text>
+        </g>
+        <g class="keycap">
+          <rect x="82" y="55" width="52" height="52" rx="5" class="outer"/>
+            <rect x="88" y="58" width="40" height="40" rx="5" class="inner"/>
+            <text x="90.0" y="92.0" class="label level1">Q</text>
+            <text x="90.0" y="75.0" class="label level2"></text>
+            <text x="107.0" y="92.0" class="label level3">Ô</text>
+            <text x="107.0" y="75.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="136" y="55" width="52" height="52" rx="5" class="outer"/>
+            <rect x="142" y="58" width="40" height="40" rx="5" class="inner"/>
+            <text x="144.0" y="92.0" class="label level1">W</text>
+            <text x="144.0" y="75.0" class="label level2"></text>
+            <text x="161.0" y="92.0" class="label level3"></text>
+            <text x="161.0" y="75.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="190" y="55" width="52" height="52" rx="5" class="outer"/>
+            <rect x="196" y="58" width="40" height="40" rx="5" class="inner"/>
+            <text x="198.0" y="92.0" class="label level1">E</text>
+            <text x="198.0" y="75.0" class="label level2"></text>
+            <text x="215.0" y="92.0" class="label level3">É</text>
+            <text x="215.0" y="75.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="244" y="55" width="52" height="52" rx="5" class="outer"/>
+            <rect x="250" y="58" width="40" height="40" rx="5" class="inner"/>
+            <text x="252.0" y="92.0" class="label level1">R</text>
+            <text x="252.0" y="75.0" class="label level2"></text>
+            <text x="269.0" y="92.0" class="label level3">Ŕ</text>
+            <text x="269.0" y="75.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="298" y="55" width="52" height="52" rx="5" class="outer"/>
+            <rect x="304" y="58" width="40" height="40" rx="5" class="inner"/>
+            <text x="306.0" y="92.0" class="label level1">T</text>
+            <text x="306.0" y="75.0" class="label level2"></text>
+            <text x="323.0" y="92.0" class="label level3">Ť</text>
+            <text x="323.0" y="75.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="352" y="55" width="52" height="52" rx="5" class="outer"/>
+            <rect x="358" y="58" width="40" height="40" rx="5" class="inner"/>
+            <text x="360.0" y="92.0" class="label level1">Y</text>
+            <text x="360.0" y="75.0" class="label level2"></text>
+            <text x="377.0" y="92.0" class="label level3">Ý</text>
+            <text x="377.0" y="75.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="406" y="55" width="52" height="52" rx="5" class="outer"/>
+            <rect x="412" y="58" width="40" height="40" rx="5" class="inner"/>
+            <text x="414.0" y="92.0" class="label level1">U</text>
+            <text x="414.0" y="75.0" class="label level2"></text>
+            <text x="431.0" y="92.0" class="label level3">Ú</text>
+            <text x="431.0" y="75.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="460" y="55" width="52" height="52" rx="5" class="outer"/>
+            <rect x="466" y="58" width="40" height="40" rx="5" class="inner"/>
+            <text x="468.0" y="92.0" class="label level1">I</text>
+            <text x="468.0" y="75.0" class="label level2"></text>
+            <text x="485.0" y="92.0" class="label level3">Í</text>
+            <text x="485.0" y="75.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="514" y="55" width="52" height="52" rx="5" class="outer"/>
+            <rect x="520" y="58" width="40" height="40" rx="5" class="inner"/>
+            <text x="522.0" y="92.0" class="label level1">O</text>
+            <text x="522.0" y="75.0" class="label level2"></text>
+            <text x="539.0" y="92.0" class="label level3">Ó</text>
+            <text x="539.0" y="75.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="568" y="55" width="52" height="52" rx="5" class="outer"/>
+            <rect x="574" y="58" width="40" height="40" rx="5" class="inner"/>
+            <text x="576.0" y="92.0" class="label level1">P</text>
+            <text x="576.0" y="75.0" class="label level2"></text>
+            <text x="593.0" y="92.0" class="label level3"></text>
+            <text x="593.0" y="75.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="622" y="55" width="52" height="52" rx="5" class="outer"/>
+            <rect x="628" y="58" width="40" height="40" rx="5" class="inner"/>
+            <text x="630.0" y="92.0" class="label level1">&lt;</text>
+            <text x="630.0" y="75.0" class="label level2">&gt;</text>
+            <text x="647.0" y="92.0" class="label level3"></text>
+            <text x="647.0" y="75.0" class="label level4"></text>
+        </g>
+
+        <g class="keycap">
+          <rect x="676" y="55" width="52" height="52" rx="5" class="outer"/>
+            <rect x="682" y="58" width="40" height="40" rx="5" class="inner"/>
+            <text x="684.0" y="92.0" class="label level1">/</text>
+            <text x="684.0" y="75.0" class="label level2">|</text>
+            <text x="701.0" y="92.0" class="label level3"></text>
+            <text x="701.0" y="75.0" class="label level4"></text>
+        </g>
+
+        <g class="keycap">
+          <rect x="730" y="55" width="79" height="52" rx="5" class="outer"/>
+            <rect x="736" y="58" width="67" height="40" rx="5" class="inner"/>
+            <text x="738.0" y="92.0" class="label level1">,</text>
+            <text x="738.0" y="75.0" class="label level2">;</text>
+            <text x="755.0" y="92.0" class="label level3"></text>
+            <text x="755.0" y="75.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="1" y="109" width="92.5" height="52" rx="5" class="outer"/>
+            <rect x="7" y="112" width="80.5" height="40" rx="5" class="inner"/>
+            <text x="18.0" y="137.0" class="label level2">CAPS</text>
+        </g>
+        <g class="keycap">
+          <rect x="95.5" y="109" width="52" height="52" rx="5" class="outer"/>
+            <rect x="101.5" y="112" width="40" height="40" rx="5" class="inner"/>
+            <text x="103.5" y="146.0" class="label level1">A</text>
+            <text x="103.5" y="129.0" class="label level2"></text>
+            <text x="120.5" y="146.0" class="label level3">Á</text>
+            <text x="120.5" y="129.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="149.5" y="109" width="52" height="52" rx="5" class="outer"/>
+            <rect x="155.5" y="112" width="40" height="40" rx="5" class="inner"/>
+            <text x="157.5" y="146.0" class="label level1">S</text>
+            <text x="157.5" y="129.0" class="label level2"></text>
+            <text x="174.5" y="146.0" class="label level3">Š</text>
+            <text x="174.5" y="129.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="203.5" y="109" width="52" height="52" rx="5" class="outer"/>
+            <rect x="209.5" y="112" width="40" height="40" rx="5" class="inner"/>
+            <text x="211.5" y="146.0" class="label level1">D</text>
+            <text x="211.5" y="129.0" class="label level2"></text>
+            <text x="228.5" y="146.0" class="label level3">Ď</text>
+            <text x="228.5" y="129.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="257.5" y="109" width="52" height="52" rx="5" class="outer"/>
+            <rect x="263.5" y="112" width="40" height="40" rx="5" class="inner"/>
+            <text x="265.5" y="146.0" class="label level1">F</text>
+            <text x="265.5" y="129.0" class="label level2"></text>
+            <text x="282.5" y="146.0" class="label level3"></text>
+            <text x="282.5" y="129.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="311.5" y="109" width="52" height="52" rx="5" class="outer"/>
+            <rect x="317.5" y="112" width="40" height="40" rx="5" class="inner"/>
+            <text x="319.5" y="146.0" class="label level1">G</text>
+            <text x="319.5" y="129.0" class="label level2"></text>
+            <text x="336.5" y="146.0" class="label level3"></text>
+            <text x="336.5" y="129.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="365.5" y="109" width="52" height="52" rx="5" class="outer"/>
+            <rect x="371.5" y="112" width="40" height="40" rx="5" class="inner"/>
+            <text x="373.5" y="146.0" class="label level1">H</text>
+            <text x="373.5" y="129.0" class="label level2"></text>
+            <text x="390.5" y="146.0" class="label level3"></text>
+            <text x="390.5" y="129.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="419.5" y="109" width="52" height="52" rx="5" class="outer"/>
+            <rect x="425.5" y="112" width="40" height="40" rx="5" class="inner"/>
+            <text x="427.5" y="146.0" class="label level1">J</text>
+            <text x="427.5" y="129.0" class="label level2"></text>
+            <text x="444.5" y="146.0" class="label level3">Ľ</text>
+            <text x="444.5" y="129.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="473.5" y="109" width="52" height="52" rx="5" class="outer"/>
+            <rect x="479.5" y="112" width="40" height="40" rx="5" class="inner"/>
+            <text x="481.5" y="146.0" class="label level1">K</text>
+            <text x="481.5" y="129.0" class="label level2"></text>
+            <text x="498.5" y="146.0" class="label level3"></text>
+            <text x="498.5" y="129.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="527.5" y="109" width="52" height="52" rx="5" class="outer"/>
+            <rect x="533.5" y="112" width="40" height="40" rx="5" class="inner"/>
+            <text x="535.5" y="146.0" class="label level1">L</text>
+            <text x="535.5" y="129.0" class="label level2"></text>
+            <text x="552.5" y="146.0" class="label level3">Ĺ</text>
+            <text x="552.5" y="129.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="581.5" y="109" width="52" height="52" rx="5" class="outer"/>
+            <rect x="587.5" y="112" width="40" height="40" rx="5" class="inner"/>
+            <text x="589.5" y="146.0" class="label level1">[</text>
+            <text x="589.5" y="129.0" class="label level2">]</text>
+            <text x="606.5" y="146.0" class="label level3"></text>
+            <text x="606.5" y="129.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="635.5" y="109" width="52" height="52" rx="5" class="outer"/>
+            <rect x="641.5" y="112" width="40" height="40" rx="5" class="inner"/>
+            <text x="643.5" y="146.0" class="label level1">{</text>
+            <text x="643.5" y="129.0" class="label level2">}</text>
+            <text x="660.5" y="146.0" class="label level3"></text>
+            <text x="660.5" y="129.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="689.5" y="109" width="119.5" height="52" rx="5" class="outer"/>
+            <rect x="695.5" y="112" width="107.5" height="40" rx="5" class="inner"/>
+            <text x="740.5" y="137.0" class="label level1">ENTER</text>
+        </g>
+        <g class="keycap">
+          <rect x="1" y="163" width="119.5" height="52" rx="5" class="outer"/>
+            <rect x="7" y="166" width="107.5" height="40" rx="5" class="inner"/>
+            <text x="18.0" y="190.0" class="label level2">LSHIFT</text>
+        </g>
+        <g class="keycap">
+          <rect x="122.5" y="163" width="52" height="52" rx="5" class="outer"/>
+            <rect x="128.5" y="166" width="40" height="40" rx="5" class="inner"/>
+            <text x="130.5" y="200.0" class="label level1">Z</text>
+            <text x="130.5" y="183.0" class="label level2"></text>
+            <text x="147.5" y="200.0" class="label level3">Ž</text>
+            <text x="147.5" y="183.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="176.5" y="163" width="52" height="52" rx="5" class="outer"/>
+            <rect x="182.5" y="166" width="40" height="40" rx="5" class="inner"/>
+            <text x="184.5" y="200.0" class="label level1">X</text>
+            <text x="184.5" y="183.0" class="label level2"></text>
+            <text x="201.5" y="200.0" class="label level3"></text>
+            <text x="201.5" y="183.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="230.5" y="163" width="52" height="52" rx="5" class="outer"/>
+            <rect x="236.5" y="166" width="40" height="40" rx="5" class="inner"/>
+            <text x="238.5" y="200.0" class="label level1">C</text>
+            <text x="238.5" y="183.0" class="label level2"></text>
+            <text x="255.5" y="200.0" class="label level3">Č</text>
+            <text x="255.5" y="183.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="284.5" y="163" width="52" height="52" rx="5" class="outer"/>
+            <rect x="290.5" y="166" width="40" height="40" rx="5" class="inner"/>
+            <text x="292.5" y="200.0" class="label level1">V</text>
+            <text x="292.5" y="183.0" class="label level2"></text>
+            <text x="309.5" y="200.0" class="label level3"></text>
+            <text x="309.5" y="183.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="338.5" y="163" width="52" height="52" rx="5" class="outer"/>
+            <rect x="344.5" y="166" width="40" height="40" rx="5" class="inner"/>
+            <text x="346.5" y="200.0" class="label level1">B</text>
+            <text x="346.5" y="183.0" class="label level2"></text>
+            <text x="363.5" y="200.0" class="label level3"></text>
+            <text x="363.5" y="183.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="392.5" y="163" width="52" height="52" rx="5" class="outer"/>
+            <rect x="398.5" y="166" width="40" height="40" rx="5" class="inner"/>
+            <text x="400.5" y="200.0" class="label level1">N</text>
+            <text x="400.5" y="183.0" class="label level2"></text>
+            <text x="417.5" y="200.0" class="label level3">Ň</text>
+            <text x="417.5" y="183.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="446.5" y="163" width="52" height="52" rx="5" class="outer"/>
+            <rect x="452.5" y="166" width="40" height="40" rx="5" class="inner"/>
+            <text x="454.5" y="200.0" class="label level1">M</text>
+            <text x="454.5" y="183.0" class="label level2"></text>
+            <text x="471.5" y="200.0" class="label level3"></text>
+            <text x="471.5" y="183.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="500.5" y="163" width="52" height="52" rx="5" class="outer"/>
+            <rect x="506.5" y="166" width="40" height="40" rx="5" class="inner"/>
+            <text x="508.5" y="200.0" class="label level1">&amp;</text>
+            <text x="508.5" y="183.0" class="label level2">\</text>
+            <text x="525.5" y="200.0" class="label level3"></text>
+            <text x="525.5" y="183.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="554.5" y="163" width="52" height="52" rx="5" class="outer"/>
+            <rect x="560.5" y="166" width="40" height="40" rx="5" class="inner"/>
+            <text x="562.5" y="200.0" class="label level1">~</text>
+            <text x="562.5" y="183.0" class="label level2">`</text>
+            <text x="579.5" y="200.0" class="label level3">°</text>
+            <text x="579.5" y="183.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="608.5" y="163" width="52" height="52" rx="5" class="outer"/>
+            <rect x="614.5" y="166" width="40" height="40" rx="5" class="inner"/>
+            <text x="616.5" y="200.0" class="label level1">.</text>
+            <text x="616.5" y="183.0" class="label level2">:</text>
+            <text x="633.5" y="200.0" class="label level3"></text>
+            <text x="633.5" y="183.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="662.5" y="163" width="146.5" height="52" rx="5" class="outer"/>
+            <rect x="668.5" y="166" width="134.5" height="40" rx="5" class="inner"/>
+            <text x="730.5" y="190.0" class="label level2">RSHIFT</text>
+        </g>
+        <g class="keycap">
+          <rect x="1" y="217" width="65.5" height="52" rx="5" class="outer"/>
+            <rect x="7" y="220" width="53.5" height="40" rx="5" class="inner"/>
+            <text x="18.0" y="254.0" class="label level1">LCTRL</text>
+        </g>
+        <g class="keycap">
+          <rect x="68.5" y="217" width="65.5" height="52" rx="5" class="outer"/>
+            <rect x="74.5" y="220" width="53.5" height="40" rx="5" class="inner"/>
+            <text x="83.5" y="254.0" class="label level1">LMOD</text>
+        </g>
+        <g class="keycap">
+          <rect x="136" y="217" width="65.5" height="52" rx="5" class="outer"/>
+            <rect x="142" y="220" width="53.5" height="40" rx="5" class="inner"/>
+            <text x="153.0" y="254.0" class="label level1">LALT</text>
+        </g>
+        <g class="keycap">
+          <rect x="203.5" y="217" width="335.5" height="52" rx="5" class="outer"/>
+            <rect x="209.5" y="220" width="323.5" height="40" rx="5" class="inner"/>
+            <text x="228.5" y="254.0" class="label level1">SPACE</text>
+            <text x="228.5" y="237.0" class="label level2"></text>
+            <text x="475.5" y="254.0" class="label level3">NBSPC</text>
+            <text x="475.5" y="237.0" class="label level4"></text>
+        </g>
+        <g class="keycap">
+          <rect x="541" y="217" width="65.5" height="52" rx="5" class="outer"/>
+            <rect x="547" y="220" width="53.5" height="40" rx="5" class="inner"/>
+            <text x="566.0" y="254.0" class="label level3">RALT</text>
+        </g>
+        <g class="keycap">
+          <rect x="608.5" y="217" width="65.5" height="52" rx="5" class="outer"/>
+            <rect x="614.5" y="220" width="53.5" height="40" rx="5" class="inner"/>
+            <text x="627.5" y="254.0" class="label level1">RMOD</text>
+        </g>
+        <g class="keycap">
+          <rect x="676" y="217" width="65.5" height="52" rx="5" class="outer"/>
+            <rect x="682" y="220" width="53.5" height="40" rx="5" class="inner"/>
+            <text x="695.0" y="254.0" class="label level1">MENU</text>
+        </g>
+        <g class="keycap">
+          <rect x="743.5" y="217" width="65.5" height="52" rx="5" class="outer"/>
+            <rect x="749.5" y="220" width="53.5" height="40" rx="5" class="inner"/>
+            <text x="758.5" y="254.0" class="label level1">RCTRL</text>
+        </g>
+      </g>
+    </g>
+  </svg>
