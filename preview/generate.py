@@ -35,7 +35,8 @@ LABEL_MAP = {
     "ocircumflex": "Ô", "parenleft": "(", "parenright": ")", "percent": "%",
     "period": ".", "plus": "+", "question": "?", "quotedbl": "\"", "racute": "Ŕ",
     "scaron": "Š", "semicolon": ";", "slash": "/", "space": "SPACE", "tcaron": "Ť",
-    "u20bd": "₽", "uacute": "Ú", "underscore": "_", "yacute": "Ý", "zcaron": "Ž",
+    "u2026": "…", "u20bd": "₽", "uacute": "Ú", "underscore": "_", "yacute": "Ý",
+    "zcaron": "Ž",
 }
 
 

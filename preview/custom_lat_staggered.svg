@@ -14,10 +14,10 @@
         <g class="keycap">
           <rect x="1" y="1" width="52" height="52" rx="5" class="outer"/>
             <rect x="7" y="4" width="40" height="40" rx="5" class="inner"/>
-            <text x="9.0" y="38.0" class="label level1">"</text>
-            <text x="9.0" y="21.0" class="label level2">'</text>
-            <text x="26.0" y="38.0" class="label level3">«</text>
-            <text x="26.0" y="21.0" class="label level4">»</text>
+            <text x="9.0" y="38.0" class="label level1">&lt;</text>
+            <text x="9.0" y="21.0" class="label level2">&gt;</text>
+            <text x="26.0" y="38.0" class="label level3"></text>
+            <text x="26.0" y="21.0" class="label level4"></text>
         </g>
         <g class="keycap">
           <rect x="55" y="1" width="52" height="52" rx="5" class="outer"/>
@@ -208,8 +208,8 @@
         <g class="keycap">
           <rect x="622" y="55" width="52" height="52" rx="5" class="outer"/>
             <rect x="628" y="58" width="40" height="40" rx="5" class="inner"/>
-            <text x="630.0" y="92.0" class="label level1">&lt;</text>
-            <text x="630.0" y="75.0" class="label level2">&gt;</text>
+            <text x="630.0" y="92.0" class="label level1">.</text>
+            <text x="630.0" y="75.0" class="label level2">:</text>
             <text x="647.0" y="92.0" class="label level3"></text>
             <text x="647.0" y="75.0" class="label level4"></text>
         </g>
@@ -217,8 +217,8 @@
         <g class="keycap">
           <rect x="676" y="55" width="52" height="52" rx="5" class="outer"/>
             <rect x="682" y="58" width="40" height="40" rx="5" class="inner"/>
-            <text x="684.0" y="92.0" class="label level1">/</text>
-            <text x="684.0" y="75.0" class="label level2">|</text>
+            <text x="684.0" y="92.0" class="label level1">,</text>
+            <text x="684.0" y="75.0" class="label level2">;</text>
             <text x="701.0" y="92.0" class="label level3"></text>
             <text x="701.0" y="75.0" class="label level4"></text>
         </g>
@@ -226,9 +226,9 @@
         <g class="keycap">
           <rect x="730" y="55" width="79" height="52" rx="5" class="outer"/>
             <rect x="736" y="58" width="67" height="40" rx="5" class="inner"/>
-            <text x="738.0" y="92.0" class="label level1">,</text>
-            <text x="738.0" y="75.0" class="label level2">;</text>
-            <text x="755.0" y="92.0" class="label level3"></text>
+            <text x="738.0" y="92.0" class="label level1">/</text>
+            <text x="738.0" y="75.0" class="label level2">|</text>
+            <text x="755.0" y="92.0" class="label level3">\</text>
             <text x="755.0" y="75.0" class="label level4"></text>
         </g>
         <g class="keycap">
@@ -312,14 +312,14 @@
           <rect x="581.5" y="109" width="52" height="52" rx="5" class="outer"/>
             <rect x="587.5" y="112" width="40" height="40" rx="5" class="inner"/>
             <text x="589.5" y="146.0" class="label level1">[</text>
-            <text x="589.5" y="129.0" class="label level2">]</text>
+            <text x="589.5" y="129.0" class="label level2">{</text>
             <text x="606.5" y="146.0" class="label level3"></text>
             <text x="606.5" y="129.0" class="label level4"></text>
         </g>
         <g class="keycap">
           <rect x="635.5" y="109" width="52" height="52" rx="5" class="outer"/>
             <rect x="641.5" y="112" width="40" height="40" rx="5" class="inner"/>
-            <text x="643.5" y="146.0" class="label level1">{</text>
+            <text x="643.5" y="146.0" class="label level1">]</text>
             <text x="643.5" y="129.0" class="label level2">}</text>
             <text x="660.5" y="146.0" class="label level3"></text>
             <text x="660.5" y="129.0" class="label level4"></text>
@@ -394,7 +394,7 @@
           <rect x="500.5" y="163" width="52" height="52" rx="5" class="outer"/>
             <rect x="506.5" y="166" width="40" height="40" rx="5" class="inner"/>
             <text x="508.5" y="200.0" class="label level1">&amp;</text>
-            <text x="508.5" y="183.0" class="label level2">\</text>
+            <text x="508.5" y="183.0" class="label level2">…</text>
             <text x="525.5" y="200.0" class="label level3"></text>
             <text x="525.5" y="183.0" class="label level4"></text>
         </g>
@@ -409,10 +409,10 @@
         <g class="keycap">
           <rect x="608.5" y="163" width="52" height="52" rx="5" class="outer"/>
             <rect x="614.5" y="166" width="40" height="40" rx="5" class="inner"/>
-            <text x="616.5" y="200.0" class="label level1">.</text>
-            <text x="616.5" y="183.0" class="label level2">:</text>
-            <text x="633.5" y="200.0" class="label level3"></text>
-            <text x="633.5" y="183.0" class="label level4"></text>
+            <text x="616.5" y="200.0" class="label level1">"</text>
+            <text x="616.5" y="183.0" class="label level2">'</text>
+            <text x="633.5" y="200.0" class="label level3">«</text>
+            <text x="633.5" y="183.0" class="label level4">»</text>
         </g>
         <g class="keycap">
           <rect x="662.5" y="163" width="146.5" height="52" rx="5" class="outer"/>
