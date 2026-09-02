@@ -47,7 +47,7 @@ xkb_symbols "basic" {
     key <AB02>  { [ Cyrillic_che, Cyrillic_CHE, NoSymbol, NoSymbol ] };
     key <AB03>  { [  Cyrillic_es,  Cyrillic_ES, NoSymbol, NoSymbol ] };
     key <AB04>  { [  Cyrillic_em,  Cyrillic_EM, NoSymbol, NoSymbol ] };
-    key <AB05>  { [   Cyrillic_i,   Cyrillic_I, NoSymbol, NoSymbol ] };
+    key <AB05>  { [   Cyrillic_i,   Cyrillic_I, Cyrillic_shorti, Cyrillic_SHORTI ] };
     key <AB06>  { [  Cyrillic_te,  Cyrillic_TE, NoSymbol, NoSymbol ] };
     key <AB07>  { [ Cyrillic_softsign, Cyrillic_SOFTSIGN, Cyrillic_hardsign, Cyrillic_HARDSIGN ] };
     key <AB08>  { [ Cyrillic_be, Cyrillic_BE,     ampersand,           U2026 ] };
