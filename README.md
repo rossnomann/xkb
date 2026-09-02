@@ -6,21 +6,21 @@ A personal XKB configuration.
 
 ### Staggered
 
-![Latin Staggered](./preview/custom_lat_staggered.svg)
+![Latin Staggered](./preview/out/custom_lat_staggered.svg)
 
 ### Corne
 
-![Latin Corne](./preview/custom_lat_corne.svg)
+![Latin Corne](./preview/out/custom_lat_corne.svg)
 
 ## Cyrillic (RU)
 
 ### Staggered
 
-![Cyrillic Staggered](./preview/custom_cyr_staggered.svg)
+![Cyrillic Staggered](./preview/out/custom_cyr_staggered.svg)
 
 ### Corne
 
-![Cyrillic Corne](./preview/custom_cyr_corne.svg)
+![Cyrillic Corne](./preview/out/custom_cyr_corne.svg)
 
 ## LICENSE
 

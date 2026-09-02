@@ -11,7 +11,7 @@ SYMBOLS_ROOT = HERE.parent / "xkb" / "symbols"
 TPL_ROOT = HERE
 TPL_CORNE= TPL_ROOT / "corne.svg.tpl"
 TPL_STAGGERED = TPL_ROOT / "staggered.svg.tpl"
-OUT_ROOT = HERE
+OUT_ROOT = HERE / "out"
 
 LABEL_MAP = {
     "iso_level3_shift": "RALT", "aacute": "Á", "ampersand": "&amp;", "apostrophe": "'",
