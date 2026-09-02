@@ -103,10 +103,10 @@
       <g class="keycap">
         <rect x="811" y="21.25" width="52" height="52" rx="5" class="outer"/>
         <rect x="817" y="24.25" width="40" height="40" rx="5" class="inner"/>
-        <text x="819.0" y="58.25" class="label level1">"</text>
-        <text x="819.0" y="41.25" class="label level2">'</text>
-        <text x="836.0" y="58.25" class="label level3">«</text>
-        <text x="836.0" y="41.25" class="label level4">»</text>
+        <text x="819.0" y="58.25" class="label level1">~</text>
+        <text x="819.0" y="41.25" class="label level2">`</text>
+        <text x="836.0" y="58.25" class="label level3">°</text>
+        <text x="836.0" y="41.25" class="label level4"></text>
       </g>
       <g class="keycap">
         <rect x="325" y="41.5" width="52" height="52" rx="5" class="outer"/>
@@ -215,10 +215,10 @@
       <g class="keycap">
         <rect x="811" y="75.25" width="52" height="52" rx="5" class="outer"/>
         <rect x="817" y="78.25" width="40" height="40" rx="5" class="inner"/>
-        <text x="819.0" y="112.25" class="label level1">~</text>
-        <text x="819.0" y="95.25" class="label level2">`</text>
-        <text x="836.0" y="112.25" class="label level3">°</text>
-        <text x="836.0" y="95.25" class="label level4"></text>
+        <text x="819.0" y="112.25" class="label level1">"</text>
+        <text x="819.0" y="95.25" class="label level2">'</text>
+        <text x="836.0" y="112.25" class="label level3">«</text>
+        <text x="836.0" y="95.25" class="label level4">»</text>
       </g>
       <g class="keycap">
         <rect x="325" y="95.5" width="52" height="52" rx="5" class="outer"/>
