@@ -8,9 +8,9 @@ A personal XKB configuration.
 
 ![Latin Staggered](./preview/custom_lat_staggered.svg)
 
-### Ortholinear
+### Corne
 
-![Latin Ortholinear](./preview/custom_lat_ortholinear.svg)
+![Latin Corne](./preview/custom_lat_corne.svg)
 
 ## Cyrillic (RU)
 
@@ -18,9 +18,9 @@ A personal XKB configuration.
 
 ![Cyrillic Staggered](./preview/custom_cyr_staggered.svg)
 
-### Ortholinear
+### Corne
 
-![Cyrillic Ortholinear](./preview/custom_cyr_ortholinear.svg)
+![Cyrillic Corne](./preview/custom_cyr_corne.svg)
 
 ## LICENSE
 
