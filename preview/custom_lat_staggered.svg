@@ -311,17 +311,17 @@
         <g class="keycap">
           <rect x="581.5" y="109" width="52" height="52" rx="5" class="outer"/>
             <rect x="587.5" y="112" width="40" height="40" rx="5" class="inner"/>
-            <text x="589.5" y="146.0" class="label level1">[</text>
-            <text x="589.5" y="129.0" class="label level2">{</text>
+            <text x="589.5" y="146.0" class="label level1">&amp;</text>
+            <text x="589.5" y="129.0" class="label level2">…</text>
             <text x="606.5" y="146.0" class="label level3"></text>
             <text x="606.5" y="129.0" class="label level4"></text>
         </g>
         <g class="keycap">
           <rect x="635.5" y="109" width="52" height="52" rx="5" class="outer"/>
             <rect x="641.5" y="112" width="40" height="40" rx="5" class="inner"/>
-            <text x="643.5" y="146.0" class="label level1">]</text>
-            <text x="643.5" y="129.0" class="label level2">}</text>
-            <text x="660.5" y="146.0" class="label level3"></text>
+            <text x="643.5" y="146.0" class="label level1">~</text>
+            <text x="643.5" y="129.0" class="label level2">`</text>
+            <text x="660.5" y="146.0" class="label level3">°</text>
             <text x="660.5" y="129.0" class="label level4"></text>
         </g>
         <g class="keycap">
@@ -393,17 +393,17 @@
         <g class="keycap">
           <rect x="500.5" y="163" width="52" height="52" rx="5" class="outer"/>
             <rect x="506.5" y="166" width="40" height="40" rx="5" class="inner"/>
-            <text x="508.5" y="200.0" class="label level1">&amp;</text>
-            <text x="508.5" y="183.0" class="label level2">…</text>
+            <text x="508.5" y="200.0" class="label level1">[</text>
+            <text x="508.5" y="183.0" class="label level2">{</text>
             <text x="525.5" y="200.0" class="label level3"></text>
             <text x="525.5" y="183.0" class="label level4"></text>
         </g>
         <g class="keycap">
           <rect x="554.5" y="163" width="52" height="52" rx="5" class="outer"/>
             <rect x="560.5" y="166" width="40" height="40" rx="5" class="inner"/>
-            <text x="562.5" y="200.0" class="label level1">~</text>
-            <text x="562.5" y="183.0" class="label level2">`</text>
-            <text x="579.5" y="200.0" class="label level3">°</text>
+            <text x="562.5" y="200.0" class="label level1">]</text>
+            <text x="562.5" y="183.0" class="label level2">}</text>
+            <text x="579.5" y="200.0" class="label level3"></text>
             <text x="579.5" y="183.0" class="label level4"></text>
         </g>
         <g class="keycap">

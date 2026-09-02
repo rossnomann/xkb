@@ -209,16 +209,16 @@
         <rect x="763" y="78.25" width="40" height="40" rx="5" class="inner"/>
         <text x="765.0" y="112.25" class="label level1">Ж</text>
         <text x="765.0" y="95.25" class="label level2"></text>
-        <text x="782.0" y="112.25" class="label level3">[</text>
-        <text x="782.0" y="95.25" class="label level4">{</text>
+        <text x="782.0" y="112.25" class="label level3">~</text>
+        <text x="782.0" y="95.25" class="label level4">`</text>
       </g>
       <g class="keycap">
         <rect x="811" y="75.25" width="52" height="52" rx="5" class="outer"/>
         <rect x="817" y="78.25" width="40" height="40" rx="5" class="inner"/>
         <text x="819.0" y="112.25" class="label level1">Э</text>
         <text x="819.0" y="95.25" class="label level2"></text>
-        <text x="836.0" y="112.25" class="label level3">]</text>
-        <text x="836.0" y="95.25" class="label level4">}</text>
+        <text x="836.0" y="112.25" class="label level3">&amp;</text>
+        <text x="836.0" y="95.25" class="label level4">…</text>
       </g>
       <g class="keycap">
         <rect x="325" y="95.5" width="52" height="52" rx="5" class="outer"/>
@@ -249,8 +249,8 @@
         <rect x="655" y="112" width="40" height="40" rx="5" class="inner"/>
         <text x="657.0" y="146.0" class="label level1">Б</text>
         <text x="657.0" y="129.0" class="label level2"></text>
-        <text x="674.0" y="146.0" class="label level3">&amp;</text>
-        <text x="674.0" y="129.0" class="label level4">…</text>
+        <text x="674.0" y="146.0" class="label level3">[</text>
+        <text x="674.0" y="129.0" class="label level4">{</text>
       </g>
       <g class="keycap">
         <rect x="109" y="115.75" width="52" height="52" rx="5" class="outer"/>
@@ -281,8 +281,8 @@
         <rect x="709" y="118.75" width="40" height="40" rx="5" class="inner"/>
         <text x="711.0" y="152.75" class="label level1">Ю</text>
         <text x="711.0" y="135.75" class="label level2"></text>
-        <text x="728.0" y="152.75" class="label level3">~</text>
-        <text x="728.0" y="135.75" class="label level4">`</text>
+        <text x="728.0" y="152.75" class="label level3">]</text>
+        <text x="728.0" y="135.75" class="label level4">}</text>
       </g>
       <g class="keycap">
         <rect x="271" y="122.5" width="52" height="52" rx="5" class="outer"/>
