@@ -14,7 +14,7 @@ TPL_STAGGERED = TPL_ROOT / "staggered.svg.tpl"
 TPL_STYLE = """
     .keycap .outer { fill: #1e1e2e; }
     .keycap .inner { fill: #313244; stroke: #45475a; }
-    .label { font: 16px monospace; }
+    .label { font: 14px monospace; }
     .label.level1 { fill: #cdd6f4; }
     .label.level2 { fill: #94e2d5; }
     .label.level3 { fill: #f38ba8; }
