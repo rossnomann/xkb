@@ -9,8 +9,8 @@ from pathlib import Path
 HERE = Path(__file__).parent
 SYMBOLS_ROOT = HERE.parent / "xkb" / "symbols"
 TPL_ROOT = HERE
-TPL_CORNE= TPL_ROOT / "corne.svg"
-TPL_STAGGERED = TPL_ROOT / "staggered.svg"
+TPL_CORNE= TPL_ROOT / "corne.svg.tpl"
+TPL_STAGGERED = TPL_ROOT / "staggered.svg.tpl"
 OUT_ROOT = HERE
 
 LABEL_MAP = {
