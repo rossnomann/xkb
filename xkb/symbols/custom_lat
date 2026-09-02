@@ -39,8 +39,8 @@ xkb_symbols "basic" {
     key <AC08>  { [            k,            K,       NoSymbol,        NoSymbol ] };
     key <AC09>  { [            l,            L,         lacute,          Lacute ] };
 
-    key <AC10>  { [  bracketleft,    braceleft,       NoSymbol,        NoSymbol ] };
-    key <AC11>  { [ bracketright,   braceright,       NoSymbol,        NoSymbol ] };
+    key <AC10>  { [    ampersand,        U2026,       NoSymbol,        NoSymbol ] };
+    key <AC11>  { [   asciitilde,        grave,         degree,        NoSymbol ] };
     key <BKSL>  { [        slash,          bar,      backslash,        NoSymbol ] };
 
     key <AB01>  { [            z,            Z,         zcaron,          Zcaron ] };
@@ -50,8 +50,8 @@ xkb_symbols "basic" {
     key <AB05>  { [            b,            B,       NoSymbol,        NoSymbol ] };
     key <AB06>  { [            n,            N,         ncaron,          Ncaron ] };
     key <AB07>  { [            m,            M,       NoSymbol,        NoSymbol ] };
-    key <AB08>  { [    ampersand,        U2026,       NoSymbol,        NoSymbol ] };
-    key <AB09>  { [   asciitilde,        grave,         degree,        NoSymbol ] };
+    key <AB08>  { [  bracketleft,    braceleft,       NoSymbol,        NoSymbol ] };
+    key <AB09>  { [ bracketright,   braceright,       NoSymbol,        NoSymbol ] };
     key <AB10>  { [     quotedbl,   apostrophe,  guillemetleft,  guillemetright ] };
 
     key <SPCE>  { [        space,        space,   nobreakspace,    nobreakspace ] };

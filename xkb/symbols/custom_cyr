@@ -39,9 +39,9 @@ xkb_symbols "basic" {
     key <AC08>  { [   Cyrillic_el,   Cyrillic_EL, NoSymbol,  NoSymbol ] };
     key <AC09>  { [   Cyrillic_de,   Cyrillic_DE, NoSymbol,  NoSymbol ] };
 
-    key <AC10>  { [  Cyrillic_zhe,  Cyrillic_ZHE,  bracketleft,  braceleft ] };
-    key <AC11>  { [    Cyrillic_e,    Cyrillic_E, bracketright, braceright ] };
-    key <BKSL>  { [         slash,           bar,    backslash,   NoSymbol ] };
+    key <AC10>  { [  Cyrillic_zhe,  Cyrillic_ZHE, asciitilde, grave    ] };
+    key <AC11>  { [    Cyrillic_e,    Cyrillic_E,  ampersand, U2026    ] };
+    key <BKSL>  { [         slash,           bar,  backslash, NoSymbol ] };
 
     key <AB01>  { [  Cyrillic_ya,  Cyrillic_YA, NoSymbol, NoSymbol ] };
     key <AB02>  { [ Cyrillic_che, Cyrillic_CHE, NoSymbol, NoSymbol ] };
@@ -50,8 +50,8 @@ xkb_symbols "basic" {
     key <AB05>  { [   Cyrillic_i,   Cyrillic_I, Cyrillic_shorti, Cyrillic_SHORTI ] };
     key <AB06>  { [  Cyrillic_te,  Cyrillic_TE, NoSymbol, NoSymbol ] };
     key <AB07>  { [ Cyrillic_softsign, Cyrillic_SOFTSIGN, Cyrillic_hardsign, Cyrillic_HARDSIGN ] };
-    key <AB08>  { [ Cyrillic_be, Cyrillic_BE,     ampersand,           U2026 ] };
-    key <AB09>  { [ Cyrillic_yu, Cyrillic_YU,    asciitilde,           grave ] };
+    key <AB08>  { [ Cyrillic_be, Cyrillic_BE,   bracketleft,  braceleft      ] };
+    key <AB09>  { [ Cyrillic_yu, Cyrillic_YU,  bracketright,  braceright     ] };
     key <AB10>  { [ quotedbl,     apostrophe, guillemetleft,  guillemetright ] };
 
     key <SPCE>  { [        space,        space,   nobreakspace,    nobreakspace ] };
