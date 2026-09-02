@@ -9,7 +9,7 @@ from pathlib import Path
 HERE = Path(__file__).parent
 SYMBOLS_ROOT = HERE.parent / "xkb" / "symbols"
 TPL_ROOT = HERE
-TPL_ORTHOLINEAR = TPL_ROOT / "ortholinear.svg"
+TPL_CORNE= TPL_ROOT / "corne.svg"
 TPL_STAGGERED = TPL_ROOT / "staggered.svg"
 OUT_ROOT = HERE
 
@@ -30,11 +30,11 @@ LABEL_MAP = {
     "equal": "=", "eurosign": "€", "exclam": "!", "grave": "`", "greater": "&gt;",
     "guillemetleft": "«", "guillemetright": "»", "hyphen": "‐", "iacute": "Í",
     "lacute": "Ĺ", "lcaron": "Ľ", "less": "&lt;", "minus": "-", "ncaron": "Ň",
-    "nobreakspace": "NBSPC", "nosymbol": "", "numbersign": "#", "numerosign": "№",
+    "nobreakspace": "␣", "nosymbol": "", "numbersign": "#", "numerosign": "№",
     "oacute": "Ó",
     "ocircumflex": "Ô", "parenleft": "(", "parenright": ")", "percent": "%",
     "period": ".", "plus": "+", "question": "?", "quotedbl": "\"", "racute": "Ŕ",
-    "scaron": "Š", "semicolon": ";", "slash": "/", "space": "SPACE", "tcaron": "Ť",
+    "scaron": "Š", "semicolon": ";", "slash": "/", "space": "␣", "tcaron": "Ť",
     "u2026": "…", "u20bd": "₽", "uacute": "Ú", "underscore": "_", "yacute": "Ý",
     "zcaron": "Ž",
 }
@@ -169,7 +169,7 @@ def render_keys(template: str, keys: Iterable[Key]) -> str:
 def main() -> None:
     templates = [
         ["staggered", TPL_STAGGERED.read_text()],
-        ["ortholinear", TPL_ORTHOLINEAR.read_text()]
+        ["corne", TPL_CORNE.read_text()]
     ]
     for sym_path in SYMBOLS_ROOT.iterdir():
         if not sym_path.is_file():

@@ -437,9 +437,9 @@
         <g class="keycap">
           <rect x="203.5" y="217" width="335.5" height="52" rx="5" class="outer"/>
             <rect x="209.5" y="220" width="323.5" height="40" rx="5" class="inner"/>
-            <text x="228.5" y="254.0" class="label level1">SPACE</text>
+            <text x="228.5" y="254.0" class="label level1">␣</text>
             <text x="228.5" y="237.0" class="label level2"></text>
-            <text x="475.5" y="254.0" class="label level3">NBSPC</text>
+            <text x="475.5" y="254.0" class="label level3">␣</text>
             <text x="475.5" y="237.0" class="label level4"></text>
         </g>
         <g class="keycap">
