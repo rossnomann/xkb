@@ -1,16 +1,9 @@
 <svg width="840px" height="300px" viewBox="0 0 840 300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <style type='text/css'>
-      .keycap .outer {{ fill: #1e1e2e; }}
-      .keycap .inner {{ fill: #313244; stroke: #45475a; }}
-      .label {{ font: 12px monospace; }}
-      .label.level1 {{ fill: #cdd6f4; }}
-      .label.level2 {{ fill: #94e2d5; }}
-      .label.level3 {{ fill: #f38ba8; }}
-      .label.level4 {{ fill: #89b4fa; }}
-    </style>
-    <g transform="translate(10,10)">
-      <rect width="820" height="280" stroke="#cdd6f4" stroke-width="1" fill="#11111b" rx="6"/>
-      <g transform='translate(5,5)'>
+  <style type='text/css'>{style}
+  </style>
+  <g transform="translate(10,10)">
+    <rect width="820" height="280" stroke="#cdd6f4" stroke-width="1" fill="#11111b" rx="6"/>
+    <g transform='translate(5,5)'>
         <g class="keycap">
           <rect x="1" y="1" width="52" height="52" rx="5" class="outer"/>
             <rect x="7" y="4" width="40" height="40" rx="5" class="inner"/>
@@ -462,6 +455,6 @@
             <rect x="749.5" y="220" width="53.5" height="40" rx="5" class="inner"/>
             <text x="758.5" y="254.0" class="label level1">RCTRL</text>
         </g>
-      </g>
     </g>
-  </svg>
+  </g>
+</svg>

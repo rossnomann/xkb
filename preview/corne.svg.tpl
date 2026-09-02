@@ -1,13 +1,5 @@
 <svg width="894px" height="307px" viewBox="0 0 894 307" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <style type="text/css">
-    .keycap .outer {{ fill: #1e1e2e; }}
-    .keycap .inner {{ fill: #313244; stroke: #45475a; }}
-    .label {{ font: 16px monospace; }}
-    .label.level1 {{ fill: #cdd6f4; }}
-    .label.level2 {{ fill: #94e2d5; }}
-    .label.level3 {{ fill: #f38ba8; }}
-    .label.level4 {{ fill: #89b4fa; }}
-    .label.small {{ font-size: 10px; }}
+  <style type="text/css">{style}
   </style>
   <g transform="translate(10,10)">
     <rect width="874" height="286.2653718043597" stroke="#cdd6f4" stroke-width="1" fill="#11111b" rx="6"/>

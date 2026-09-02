@@ -11,6 +11,16 @@ SYMBOLS_ROOT = HERE.parent / "xkb" / "symbols"
 TPL_ROOT = HERE
 TPL_CORNE= TPL_ROOT / "corne.svg.tpl"
 TPL_STAGGERED = TPL_ROOT / "staggered.svg.tpl"
+TPL_STYLE = """
+    .keycap .outer { fill: #1e1e2e; }
+    .keycap .inner { fill: #313244; stroke: #45475a; }
+    .label { font: 16px monospace; }
+    .label.level1 { fill: #cdd6f4; }
+    .label.level2 { fill: #94e2d5; }
+    .label.level3 { fill: #f38ba8; }
+    .label.level4 { fill: #89b4fa; }
+    .label.small { font-size: 10px; }
+"""
 OUT_ROOT = HERE / "out"
 
 LABEL_MAP = {
@@ -147,7 +157,7 @@ class RenderError(Exception):
 
 
 def render_keys(template: str, keys: Iterable[Key]) -> str:
-    cx = {}
+    cx = {"style": TPL_STYLE.rstrip()}
     for key in keys:
         code = key.code[1:-1]
         labels = key.labels[:]
