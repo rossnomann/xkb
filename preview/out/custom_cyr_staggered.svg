@@ -129,7 +129,7 @@
         <g class="keycap">
           <rect x="82" y="55" width="52" height="52" rx="5" class="outer"/>
             <rect x="88" y="58" width="40" height="40" rx="5" class="inner"/>
-            <text x="90.0" y="92.0" class="label level1">Э</text>
+            <text x="90.0" y="92.0" class="label level1">Ц</text>
             <text x="90.0" y="75.0" class="label level2"></text>
             <text x="107.0" y="92.0" class="label level3"></text>
             <text x="107.0" y="75.0" class="label level4"></text>
@@ -137,15 +137,15 @@
         <g class="keycap">
           <rect x="136" y="55" width="52" height="52" rx="5" class="outer"/>
             <rect x="142" y="58" width="40" height="40" rx="5" class="inner"/>
-            <text x="144.0" y="92.0" class="label level1">Ц</text>
+            <text x="144.0" y="92.0" class="label level1">Ь</text>
             <text x="144.0" y="75.0" class="label level2"></text>
-            <text x="161.0" y="92.0" class="label level3"></text>
+            <text x="161.0" y="92.0" class="label level3">Ъ</text>
             <text x="161.0" y="75.0" class="label level4"></text>
         </g>
         <g class="keycap">
           <rect x="190" y="55" width="52" height="52" rx="5" class="outer"/>
             <rect x="196" y="58" width="40" height="40" rx="5" class="inner"/>
-            <text x="198.0" y="92.0" class="label level1">У</text>
+            <text x="198.0" y="92.0" class="label level1">Я</text>
             <text x="198.0" y="75.0" class="label level2"></text>
             <text x="215.0" y="92.0" class="label level3"></text>
             <text x="215.0" y="75.0" class="label level4"></text>
@@ -153,7 +153,7 @@
         <g class="keycap">
           <rect x="244" y="55" width="52" height="52" rx="5" class="outer"/>
             <rect x="250" y="58" width="40" height="40" rx="5" class="inner"/>
-            <text x="252.0" y="92.0" class="label level1">К</text>
+            <text x="252.0" y="92.0" class="label level1">З</text>
             <text x="252.0" y="75.0" class="label level2"></text>
             <text x="269.0" y="92.0" class="label level3"></text>
             <text x="269.0" y="75.0" class="label level4"></text>
@@ -161,15 +161,15 @@
         <g class="keycap">
           <rect x="298" y="55" width="52" height="52" rx="5" class="outer"/>
             <rect x="304" y="58" width="40" height="40" rx="5" class="inner"/>
-            <text x="306.0" y="92.0" class="label level1">Е</text>
+            <text x="306.0" y="92.0" class="label level1">В</text>
             <text x="306.0" y="75.0" class="label level2"></text>
-            <text x="323.0" y="92.0" class="label level3">Ё</text>
+            <text x="323.0" y="92.0" class="label level3"></text>
             <text x="323.0" y="75.0" class="label level4"></text>
         </g>
         <g class="keycap">
           <rect x="352" y="55" width="52" height="52" rx="5" class="outer"/>
             <rect x="358" y="58" width="40" height="40" rx="5" class="inner"/>
-            <text x="360.0" y="92.0" class="label level1">Н</text>
+            <text x="360.0" y="92.0" class="label level1">К</text>
             <text x="360.0" y="75.0" class="label level2"></text>
             <text x="377.0" y="92.0" class="label level3"></text>
             <text x="377.0" y="75.0" class="label level4"></text>
@@ -177,7 +177,7 @@
         <g class="keycap">
           <rect x="406" y="55" width="52" height="52" rx="5" class="outer"/>
             <rect x="412" y="58" width="40" height="40" rx="5" class="inner"/>
-            <text x="414.0" y="92.0" class="label level1">Г</text>
+            <text x="414.0" y="92.0" class="label level1">Д</text>
             <text x="414.0" y="75.0" class="label level2"></text>
             <text x="431.0" y="92.0" class="label level3"></text>
             <text x="431.0" y="75.0" class="label level4"></text>
@@ -185,23 +185,23 @@
         <g class="keycap">
           <rect x="460" y="55" width="52" height="52" rx="5" class="outer"/>
             <rect x="466" y="58" width="40" height="40" rx="5" class="inner"/>
-            <text x="468.0" y="92.0" class="label level1">Ш</text>
+            <text x="468.0" y="92.0" class="label level1">Ч</text>
             <text x="468.0" y="75.0" class="label level2"></text>
-            <text x="485.0" y="92.0" class="label level3">Щ</text>
+            <text x="485.0" y="92.0" class="label level3"></text>
             <text x="485.0" y="75.0" class="label level4"></text>
         </g>
         <g class="keycap">
           <rect x="514" y="55" width="52" height="52" rx="5" class="outer"/>
             <rect x="520" y="58" width="40" height="40" rx="5" class="inner"/>
-            <text x="522.0" y="92.0" class="label level1">З</text>
+            <text x="522.0" y="92.0" class="label level1">Ш</text>
             <text x="522.0" y="75.0" class="label level2"></text>
-            <text x="539.0" y="92.0" class="label level3"></text>
+            <text x="539.0" y="92.0" class="label level3">Щ</text>
             <text x="539.0" y="75.0" class="label level4"></text>
         </g>
         <g class="keycap">
           <rect x="568" y="55" width="52" height="52" rx="5" class="outer"/>
             <rect x="574" y="58" width="40" height="40" rx="5" class="inner"/>
-            <text x="576.0" y="92.0" class="label level1">Х</text>
+            <text x="576.0" y="92.0" class="label level1">Ж</text>
             <text x="576.0" y="75.0" class="label level2"></text>
             <text x="593.0" y="92.0" class="label level3"></text>
             <text x="593.0" y="75.0" class="label level4"></text>
@@ -240,7 +240,7 @@
         <g class="keycap">
           <rect x="95.5" y="109" width="52" height="52" rx="5" class="outer"/>
             <rect x="101.5" y="112" width="40" height="40" rx="5" class="inner"/>
-            <text x="103.5" y="146.0" class="label level1">Ф</text>
+            <text x="103.5" y="146.0" class="label level1">У</text>
             <text x="103.5" y="129.0" class="label level2"></text>
             <text x="120.5" y="146.0" class="label level3"></text>
             <text x="120.5" y="129.0" class="label level4"></text>
@@ -248,23 +248,23 @@
         <g class="keycap">
           <rect x="149.5" y="109" width="52" height="52" rx="5" class="outer"/>
             <rect x="155.5" y="112" width="40" height="40" rx="5" class="inner"/>
-            <text x="157.5" y="146.0" class="label level1">Ы</text>
+            <text x="157.5" y="146.0" class="label level1">И</text>
             <text x="157.5" y="129.0" class="label level2"></text>
-            <text x="174.5" y="146.0" class="label level3"></text>
+            <text x="174.5" y="146.0" class="label level3">Й</text>
             <text x="174.5" y="129.0" class="label level4"></text>
         </g>
         <g class="keycap">
           <rect x="203.5" y="109" width="52" height="52" rx="5" class="outer"/>
             <rect x="209.5" y="112" width="40" height="40" rx="5" class="inner"/>
-            <text x="211.5" y="146.0" class="label level1">В</text>
+            <text x="211.5" y="146.0" class="label level1">Е</text>
             <text x="211.5" y="129.0" class="label level2"></text>
-            <text x="228.5" y="146.0" class="label level3"></text>
+            <text x="228.5" y="146.0" class="label level3">Ё</text>
             <text x="228.5" y="129.0" class="label level4"></text>
         </g>
         <g class="keycap">
           <rect x="257.5" y="109" width="52" height="52" rx="5" class="outer"/>
             <rect x="263.5" y="112" width="40" height="40" rx="5" class="inner"/>
-            <text x="265.5" y="146.0" class="label level1">А</text>
+            <text x="265.5" y="146.0" class="label level1">О</text>
             <text x="265.5" y="129.0" class="label level2"></text>
             <text x="282.5" y="146.0" class="label level3"></text>
             <text x="282.5" y="129.0" class="label level4"></text>
@@ -272,7 +272,7 @@
         <g class="keycap">
           <rect x="311.5" y="109" width="52" height="52" rx="5" class="outer"/>
             <rect x="317.5" y="112" width="40" height="40" rx="5" class="inner"/>
-            <text x="319.5" y="146.0" class="label level1">П</text>
+            <text x="319.5" y="146.0" class="label level1">А</text>
             <text x="319.5" y="129.0" class="label level2"></text>
             <text x="336.5" y="146.0" class="label level3"></text>
             <text x="336.5" y="129.0" class="label level4"></text>
@@ -280,7 +280,7 @@
         <g class="keycap">
           <rect x="365.5" y="109" width="52" height="52" rx="5" class="outer"/>
             <rect x="371.5" y="112" width="40" height="40" rx="5" class="inner"/>
-            <text x="373.5" y="146.0" class="label level1">Р</text>
+            <text x="373.5" y="146.0" class="label level1">Л</text>
             <text x="373.5" y="129.0" class="label level2"></text>
             <text x="390.5" y="146.0" class="label level3"></text>
             <text x="390.5" y="129.0" class="label level4"></text>
@@ -288,7 +288,7 @@
         <g class="keycap">
           <rect x="419.5" y="109" width="52" height="52" rx="5" class="outer"/>
             <rect x="425.5" y="112" width="40" height="40" rx="5" class="inner"/>
-            <text x="427.5" y="146.0" class="label level1">О</text>
+            <text x="427.5" y="146.0" class="label level1">Н</text>
             <text x="427.5" y="129.0" class="label level2"></text>
             <text x="444.5" y="146.0" class="label level3"></text>
             <text x="444.5" y="129.0" class="label level4"></text>
@@ -296,7 +296,7 @@
         <g class="keycap">
           <rect x="473.5" y="109" width="52" height="52" rx="5" class="outer"/>
             <rect x="479.5" y="112" width="40" height="40" rx="5" class="inner"/>
-            <text x="481.5" y="146.0" class="label level1">Л</text>
+            <text x="481.5" y="146.0" class="label level1">Т</text>
             <text x="481.5" y="129.0" class="label level2"></text>
             <text x="498.5" y="146.0" class="label level3"></text>
             <text x="498.5" y="129.0" class="label level4"></text>
@@ -304,7 +304,7 @@
         <g class="keycap">
           <rect x="527.5" y="109" width="52" height="52" rx="5" class="outer"/>
             <rect x="533.5" y="112" width="40" height="40" rx="5" class="inner"/>
-            <text x="535.5" y="146.0" class="label level1">Д</text>
+            <text x="535.5" y="146.0" class="label level1">С</text>
             <text x="535.5" y="129.0" class="label level2"></text>
             <text x="552.5" y="146.0" class="label level3"></text>
             <text x="552.5" y="129.0" class="label level4"></text>
@@ -312,7 +312,7 @@
         <g class="keycap">
           <rect x="581.5" y="109" width="52" height="52" rx="5" class="outer"/>
             <rect x="587.5" y="112" width="40" height="40" rx="5" class="inner"/>
-            <text x="589.5" y="146.0" class="label level1">Ж</text>
+            <text x="589.5" y="146.0" class="label level1">Р</text>
             <text x="589.5" y="129.0" class="label level2"></text>
             <text x="606.5" y="146.0" class="label level3">&amp;</text>
             <text x="606.5" y="129.0" class="label level4">…</text>
@@ -338,7 +338,7 @@
         <g class="keycap">
           <rect x="122.5" y="163" width="52" height="52" rx="5" class="outer"/>
             <rect x="128.5" y="166" width="40" height="40" rx="5" class="inner"/>
-            <text x="130.5" y="200.0" class="label level1">Я</text>
+            <text x="130.5" y="200.0" class="label level1">Ф</text>
             <text x="130.5" y="183.0" class="label level2"></text>
             <text x="147.5" y="200.0" class="label level3"></text>
             <text x="147.5" y="183.0" class="label level4"></text>
@@ -346,7 +346,7 @@
         <g class="keycap">
           <rect x="176.5" y="163" width="52" height="52" rx="5" class="outer"/>
             <rect x="182.5" y="166" width="40" height="40" rx="5" class="inner"/>
-            <text x="184.5" y="200.0" class="label level1">Ч</text>
+            <text x="184.5" y="200.0" class="label level1">Э</text>
             <text x="184.5" y="183.0" class="label level2"></text>
             <text x="201.5" y="200.0" class="label level3"></text>
             <text x="201.5" y="183.0" class="label level4"></text>
@@ -354,7 +354,7 @@
         <g class="keycap">
           <rect x="230.5" y="163" width="52" height="52" rx="5" class="outer"/>
             <rect x="236.5" y="166" width="40" height="40" rx="5" class="inner"/>
-            <text x="238.5" y="200.0" class="label level1">С</text>
+            <text x="238.5" y="200.0" class="label level1">Х</text>
             <text x="238.5" y="183.0" class="label level2"></text>
             <text x="255.5" y="200.0" class="label level3"></text>
             <text x="255.5" y="183.0" class="label level4"></text>
@@ -362,7 +362,7 @@
         <g class="keycap">
           <rect x="284.5" y="163" width="52" height="52" rx="5" class="outer"/>
             <rect x="290.5" y="166" width="40" height="40" rx="5" class="inner"/>
-            <text x="292.5" y="200.0" class="label level1">М</text>
+            <text x="292.5" y="200.0" class="label level1">Ы</text>
             <text x="292.5" y="183.0" class="label level2"></text>
             <text x="309.5" y="200.0" class="label level3"></text>
             <text x="309.5" y="183.0" class="label level4"></text>
@@ -370,15 +370,15 @@
         <g class="keycap">
           <rect x="338.5" y="163" width="52" height="52" rx="5" class="outer"/>
             <rect x="344.5" y="166" width="40" height="40" rx="5" class="inner"/>
-            <text x="346.5" y="200.0" class="label level1">И</text>
+            <text x="346.5" y="200.0" class="label level1">Ю</text>
             <text x="346.5" y="183.0" class="label level2"></text>
-            <text x="363.5" y="200.0" class="label level3">Й</text>
+            <text x="363.5" y="200.0" class="label level3"></text>
             <text x="363.5" y="183.0" class="label level4"></text>
         </g>
         <g class="keycap">
           <rect x="392.5" y="163" width="52" height="52" rx="5" class="outer"/>
             <rect x="398.5" y="166" width="40" height="40" rx="5" class="inner"/>
-            <text x="400.5" y="200.0" class="label level1">Т</text>
+            <text x="400.5" y="200.0" class="label level1">Б</text>
             <text x="400.5" y="183.0" class="label level2"></text>
             <text x="417.5" y="200.0" class="label level3"></text>
             <text x="417.5" y="183.0" class="label level4"></text>
@@ -386,15 +386,15 @@
         <g class="keycap">
           <rect x="446.5" y="163" width="52" height="52" rx="5" class="outer"/>
             <rect x="452.5" y="166" width="40" height="40" rx="5" class="inner"/>
-            <text x="454.5" y="200.0" class="label level1">Ь</text>
+            <text x="454.5" y="200.0" class="label level1">М</text>
             <text x="454.5" y="183.0" class="label level2"></text>
-            <text x="471.5" y="200.0" class="label level3">Ъ</text>
+            <text x="471.5" y="200.0" class="label level3"></text>
             <text x="471.5" y="183.0" class="label level4"></text>
         </g>
         <g class="keycap">
           <rect x="500.5" y="163" width="52" height="52" rx="5" class="outer"/>
             <rect x="506.5" y="166" width="40" height="40" rx="5" class="inner"/>
-            <text x="508.5" y="200.0" class="label level1">Б</text>
+            <text x="508.5" y="200.0" class="label level1">П</text>
             <text x="508.5" y="183.0" class="label level2"></text>
             <text x="525.5" y="200.0" class="label level3">[</text>
             <text x="525.5" y="183.0" class="label level4">{</text>
@@ -402,7 +402,7 @@
         <g class="keycap">
           <rect x="554.5" y="163" width="52" height="52" rx="5" class="outer"/>
             <rect x="560.5" y="166" width="40" height="40" rx="5" class="inner"/>
-            <text x="562.5" y="200.0" class="label level1">Ю</text>
+            <text x="562.5" y="200.0" class="label level1">Г</text>
             <text x="562.5" y="183.0" class="label level2"></text>
             <text x="579.5" y="200.0" class="label level3">]</text>
             <text x="579.5" y="183.0" class="label level4">}</text>
