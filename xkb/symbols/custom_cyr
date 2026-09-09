@@ -16,18 +16,18 @@ xkb_symbols "basic" {
     key <AE11>  { [ minus,  underscore,     emdash, NoSymbol ] };
     key <AE12>  { [ equal,        plus,     hyphen, NoSymbol ] };
 
-    key <AD01>  { [  Cyrillic_tse,  Cyrillic_TSE, NoSymbol, NoSymbol ] };
-    key <AD02>  { [ Cyrillic_softsign, Cyrillic_SOFTSIGN, Cyrillic_hardsign, Cyrillic_HARDSIGN ] };
-    key <AD03>  { [  Cyrillic_ya,  Cyrillic_YA,       NoSymbol,       NoSymbol ] };
-    key <AD04>  { [  Cyrillic_ze,  Cyrillic_ZE,       NoSymbol,       NoSymbol ] };
-    key <AD05>  { [  Cyrillic_ve,  Cyrillic_VE,       NoSymbol,       NoSymbol ] };
-    key <AD06>  { [  Cyrillic_ka,  Cyrillic_KA,       NoSymbol,       NoSymbol ] };
-    key <AD07>  { [  Cyrillic_de,  Cyrillic_DE,       NoSymbol,       NoSymbol ] };
-    key <AD08>  { [ Cyrillic_che, Cyrillic_CHE,       NoSymbol,       NoSymbol ] };
-    key <AD09>  { [ Cyrillic_sha, Cyrillic_SHA, Cyrillic_shcha, Cyrillic_SHCHA ] };
-    key <AD10>  { [  Cyrillic_zhe,  Cyrillic_ZHE,        NoSymbol,        NoSymbol ] };
-    key <AD11>  { [       period,        colon,       NoSymbol,       NoSymbol ] };
-    key <AD12>  { [        comma,    semicolon,       NoSymbol,       NoSymbol ] };
+    key <AD01>  { [      Cyrillic_zhe,      Cyrillic_ZHE,          NoSymbol,          NoSymbol ] };
+    key <AD02>  { [      Cyrillic_sha,      Cyrillic_SHA,    Cyrillic_shcha,    Cyrillic_SHCHA ] };
+    key <AD03>  { [      Cyrillic_tse,      Cyrillic_TSE,          NoSymbol,          NoSymbol ] };
+    key <AD04>  { [ Cyrillic_softsign, Cyrillic_SOFTSIGN, Cyrillic_hardsign, Cyrillic_HARDSIGN ] };
+    key <AD05>  { [       Cyrillic_ya,       Cyrillic_YA,          NoSymbol,          NoSymbol ] };
+    key <AD06>  { [       Cyrillic_ze,       Cyrillic_ZE,          NoSymbol,          NoSymbol ] };
+    key <AD07>  { [       Cyrillic_ve,       Cyrillic_VE,          NoSymbol,          NoSymbol ] };
+    key <AD08>  { [       Cyrillic_ka,       Cyrillic_KA,          NoSymbol,          NoSymbol ] };
+    key <AD09>  { [       Cyrillic_de,       Cyrillic_DE,          NoSymbol,          NoSymbol ] };
+    key <AD10>  { [      Cyrillic_che,      Cyrillic_CHE,          NoSymbol,          NoSymbol ] };
+    key <AD11>  { [            period,             colon,          NoSymbol,          NoSymbol ] };
+    key <AD12>  { [             comma,         semicolon,          NoSymbol,          NoSymbol ] };
 
     key <AC01>  { [  Cyrillic_u,  Cyrillic_U,        NoSymbol,        NoSymbol ] };
     key <AC02>  { [  Cyrillic_i,  Cyrillic_I, Cyrillic_shorti, Cyrillic_SHORTI ] };
