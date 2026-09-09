@@ -280,7 +280,7 @@
         <g class="keycap">
           <rect x="365.5" y="109" width="52" height="52" rx="5" class="outer"/>
             <rect x="371.5" y="112" width="40" height="40" rx="5" class="inner"/>
-            <text x="373.5" y="146.0" class="label level1">Г</text>
+            <text x="373.5" y="146.0" class="label level1">П</text>
             <text x="373.5" y="129.0" class="label level2"></text>
             <text x="390.5" y="146.0" class="label level3"></text>
             <text x="390.5" y="129.0" class="label level4"></text>
@@ -394,7 +394,7 @@
         <g class="keycap">
           <rect x="500.5" y="163" width="52" height="52" rx="5" class="outer"/>
             <rect x="506.5" y="166" width="40" height="40" rx="5" class="inner"/>
-            <text x="508.5" y="200.0" class="label level1">П</text>
+            <text x="508.5" y="200.0" class="label level1">Г</text>
             <text x="508.5" y="183.0" class="label level2"></text>
             <text x="525.5" y="200.0" class="label level3">[</text>
             <text x="525.5" y="183.0" class="label level4">{</text>

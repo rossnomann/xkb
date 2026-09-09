@@ -183,7 +183,7 @@
       <g class="keycap">
         <rect x="541" y="68.5" width="52" height="52" rx="5" class="outer"/>
         <rect x="547" y="71.5" width="40" height="40" rx="5" class="inner"/>
-        <text x="549.0" y="105.5" class="label level1">Г</text>
+        <text x="549.0" y="105.5" class="label level1">П</text>
         <text x="549.0" y="88.5" class="label level2"></text>
         <text x="566.0" y="105.5" class="label level3"></text>
         <text x="566.0" y="88.5" class="label level4"></text>
@@ -247,7 +247,7 @@
       <g class="keycap">
         <rect x="649" y="109" width="52" height="52" rx="5" class="outer"/>
         <rect x="655" y="112" width="40" height="40" rx="5" class="inner"/>
-        <text x="657.0" y="146.0" class="label level1">П</text>
+        <text x="657.0" y="146.0" class="label level1">Г</text>
         <text x="657.0" y="129.0" class="label level2"></text>
         <text x="674.0" y="146.0" class="label level3">[</text>
         <text x="674.0" y="129.0" class="label level4">{</text>
