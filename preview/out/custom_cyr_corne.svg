@@ -103,7 +103,7 @@
       <g class="keycap">
         <rect x="811" y="21.25" width="52" height="52" rx="5" class="outer"/>
         <rect x="817" y="24.25" width="40" height="40" rx="5" class="inner"/>
-        <text x="819.0" y="58.25" class="label level1">~</text>
+        <text x="819.0" y="58.25" class="label level1">;</text>
         <text x="819.0" y="41.25" class="label level2">`</text>
         <text x="836.0" y="58.25" class="label level3">°</text>
         <text x="836.0" y="41.25" class="label level4"></text>
@@ -120,7 +120,7 @@
         <rect x="487" y="41.5" width="52" height="52" rx="5" class="outer"/>
         <rect x="493" y="44.5" width="40" height="40" rx="5" class="inner"/>
         <text x="495.0" y="78.5" class="label level1">-</text>
-        <text x="495.0" y="61.5" class="label level2">_</text>
+        <text x="495.0" y="61.5" class="label level2">~</text>
         <text x="512.0" y="78.5" class="label level3">—</text>
         <text x="512.0" y="61.5" class="label level4"></text>
       </g>
@@ -209,8 +209,8 @@
         <rect x="763" y="78.25" width="40" height="40" rx="5" class="inner"/>
         <text x="765.0" y="112.25" class="label level1">Р</text>
         <text x="765.0" y="95.25" class="label level2"></text>
-        <text x="782.0" y="112.25" class="label level3">&amp;</text>
-        <text x="782.0" y="95.25" class="label level4">…</text>
+        <text x="782.0" y="112.25" class="label level3">_</text>
+        <text x="782.0" y="95.25" class="label level4">|</text>
       </g>
       <g class="keycap">
         <rect x="811" y="75.25" width="52" height="52" rx="5" class="outer"/>
@@ -233,7 +233,7 @@
         <rect x="493" y="98.5" width="40" height="40" rx="5" class="inner"/>
         <text x="495.0" y="132.5" class="label level1">=</text>
         <text x="495.0" y="115.5" class="label level2">+</text>
-        <text x="512.0" y="132.5" class="label level3">‐</text>
+        <text x="512.0" y="132.5" class="label level3"></text>
         <text x="512.0" y="115.5" class="label level4"></text>
       </g>
       <g class="keycap">
@@ -304,8 +304,8 @@
         <rect x="1" y="129.25" width="52" height="52" rx="5" class="outer"/>
         <rect x="7" y="132.25" width="40" height="40" rx="5" class="inner"/>
         <text x="9.0" y="166.25" class="label level1">/</text>
-        <text x="9.0" y="149.25" class="label level2">|</text>
-        <text x="26.0" y="166.25" class="label level3">\</text>
+        <text x="9.0" y="149.25" class="label level2">\</text>
+        <text x="26.0" y="166.25" class="label level3"></text>
         <text x="26.0" y="149.25" class="label level4"></text>
       </g>
       <g class="keycap">
@@ -353,7 +353,7 @@
         <rect x="250" y="179.5" width="40" height="40" rx="5" class="inner"/>
         <text x="252.0" y="213.5" class="label level1">.</text>
         <text x="252.0" y="196.5" class="label level2">:</text>
-        <text x="269.0" y="213.5" class="label level3"></text>
+        <text x="269.0" y="213.5" class="label level3">…</text>
         <text x="269.0" y="196.5" class="label level4"></text>
       </g>
       <g class="keycap" transform="rotate(30 27 27)">
@@ -376,7 +376,7 @@
         <rect x="568" y="176.5" width="52" height="52" rx="5" class="outer"/>
         <rect x="574" y="179.5" width="40" height="40" rx="5" class="inner"/>
         <text x="576.0" y="213.5" class="label level1">,</text>
-        <text x="576.0" y="196.5" class="label level2">;</text>
+        <text x="576.0" y="196.5" class="label level2">&amp;</text>
         <text x="593.0" y="213.5" class="label level3"></text>
         <text x="593.0" y="196.5" class="label level4"></text>
       </g>

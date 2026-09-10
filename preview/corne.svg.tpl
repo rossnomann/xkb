@@ -207,10 +207,10 @@
       <g class="keycap">
         <rect x="811" y="75.25" width="52" height="52" rx="5" class="outer"/>
         <rect x="817" y="78.25" width="40" height="40" rx="5" class="inner"/>
-        <text x="819.0" y="112.25" class="label level1">{AC111}</text>
-        <text x="819.0" y="95.25" class="label level2">{AC112}</text>
-        <text x="836.0" y="112.25" class="label level3">{AC113}</text>
-        <text x="836.0" y="95.25" class="label level4">{AC114}</text>
+        <text x="819.0" y="112.25" class="label level1">{AD121}</text>
+        <text x="819.0" y="95.25" class="label level2">{AD122}</text>
+        <text x="836.0" y="112.25" class="label level3">{AD123}</text>
+        <text x="836.0" y="95.25" class="label level4">{AD124}</text>
       </g>
       <g class="keycap">
         <rect x="325" y="95.5" width="52" height="52" rx="5" class="outer"/>
@@ -367,10 +367,10 @@
      <g class="keycap" transform="rotate(-15 621 243)">
         <rect x="568" y="176.5" width="52" height="52" rx="5" class="outer"/>
         <rect x="574" y="179.5" width="40" height="40" rx="5" class="inner"/>
-        <text x="576.0" y="213.5" class="label level1">{AD121}</text>
-        <text x="576.0" y="196.5" class="label level2">{AD122}</text>
-        <text x="593.0" y="213.5" class="label level3">{AD123}</text>
-        <text x="593.0" y="196.5" class="label level4">{AD124}</text>
+        <text x="576.0" y="213.5" class="label level1">{AC111}</text>
+        <text x="576.0" y="196.5" class="label level2">{AC112}</text>
+        <text x="593.0" y="213.5" class="label level3">{AC113}</text>
+        <text x="593.0" y="196.5" class="label level4">{AC114}</text>
       </g>
     </g>
   </g>
