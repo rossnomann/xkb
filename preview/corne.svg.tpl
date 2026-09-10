@@ -71,7 +71,7 @@
       <g class="keycap">
         <rect x="1" y="21.25" width="52" height="52" rx="5" class="outer"/>
         <rect x="7" y="24.25" width="40" height="40" rx="5" class="inner"/>
-        <text x="9.0" y="58.25" class="label level1">{AE092}</text>
+        <text x="9.0" y="58.25" class="label level1">ESC</text>
         <text x="9.0" y="41.25" class="label level2"></text>
         <text x="26.0" y="58.25" class="label level3"></text>
         <text x="26.0" y="41.25" class="label level4"></text>
@@ -103,7 +103,7 @@
       <g class="keycap">
         <rect x="325" y="41.5" width="52" height="52" rx="5" class="outer"/>
         <rect x="331" y="44.5" width="40" height="40" rx="5" class="inner"/>
-        <text x="333.0" y="78.5" class="label level1">{TLDE1}</text>
+        <text x="333.0" y="78.5" class="label level1">HOME</text>
         <text x="333.0" y="61.5" class="label level2"></text>
         <text x="350.0" y="78.5" class="label level3"></text>
         <text x="350.0" y="61.5" class="label level4"></text>
@@ -111,10 +111,10 @@
       <g class="keycap">
         <rect x="487" y="41.5" width="52" height="52" rx="5" class="outer"/>
         <rect x="493" y="44.5" width="40" height="40" rx="5" class="inner"/>
-        <text x="495.0" y="78.5" class="label level1">{AE111}</text>
-        <text x="495.0" y="61.5" class="label level2">{AE112}</text>
-        <text x="512.0" y="78.5" class="label level3">{AE113}</text>
-        <text x="512.0" y="61.5" class="label level4">{AE114}</text>
+        <text x="495.0" y="78.5" class="label level1">PGUP</text>
+        <text x="495.0" y="61.5" class="label level2"></text>
+        <text x="512.0" y="78.5" class="label level3"></text>
+        <text x="512.0" y="61.5" class="label level4"></text>
       </g>
       <g class="keycap">
         <rect x="163" y="55" width="52" height="52" rx="5" class="outer"/>
@@ -183,7 +183,7 @@
       <g class="keycap">
         <rect x="1" y="75.25" width="52" height="52" rx="5" class="outer"/>
         <rect x="7" y="78.25" width="40" height="40" rx="5" class="inner"/>
-        <text x="9.0" y="112.25" class="label level1">{AE102}</text>
+        <text x="9.0" y="112.25" class="label level1">TAB</text>
         <text x="9.0" y="95.25" class="label level2"></text>
         <text x="26.0" y="112.25" class="label level3"></text>
         <text x="26.0" y="95.25" class="label level4"></text>
@@ -215,7 +215,7 @@
       <g class="keycap">
         <rect x="325" y="95.5" width="52" height="52" rx="5" class="outer"/>
         <rect x="331" y="98.5" width="40" height="40" rx="5" class="inner"/>
-        <text x="333.0" y="132.5" class="label level1">{TLDE2}</text>
+        <text x="333.0" y="132.5" class="label level1">END</text>
         <text x="333.0" y="115.5" class="label level2"></text>
         <text x="350.0" y="132.5" class="label level3"></text>
         <text x="350.0" y="115.5" class="label level4"></text>
@@ -223,10 +223,10 @@
       <g class="keycap">
         <rect x="487" y="95.5" width="52" height="52" rx="5" class="outer"/>
         <rect x="493" y="98.5" width="40" height="40" rx="5" class="inner"/>
-        <text x="495.0" y="132.5" class="label level1">{AE121}</text>
-        <text x="495.0" y="115.5" class="label level2">{AE122}</text>
-        <text x="512.0" y="132.5" class="label level3">{AE123}</text>
-        <text x="512.0" y="115.5" class="label level4">{AE124}</text>
+        <text x="495.0" y="132.5" class="label level1">PGDN</text>
+        <text x="495.0" y="115.5" class="label level2"></text>
+        <text x="512.0" y="132.5" class="label level3"></text>
+        <text x="512.0" y="115.5" class="label level4"></text>
       </g>
       <g class="keycap">
         <rect x="163" y="109" width="52" height="52" rx="5" class="outer"/>
@@ -311,15 +311,15 @@
       <g class="keycap">
         <rect x="757" y="129.25" width="52" height="52" rx="5" class="outer"/>
         <rect x="763" y="132.25" width="40" height="40" rx="5" class="inner"/>
-        <text x="765.0" y="166.25" class="label level1">BKS</text>
-        <text x="765.0" y="149.25" class="label level2"></text>
-        <text x="782.0" y="166.25" class="label level3"></text>
-        <text x="782.0" y="149.25" class="label level4"></text>
+        <text x="765.0" y="166.25" class="label level1">{AE121}</text>
+        <text x="765.0" y="149.25" class="label level2">{AE122}</text>
+        <text x="782.0" y="166.25" class="label level3">{AE123}</text>
+        <text x="782.0" y="149.25" class="label level4">{AE124}</text>
       </g>
       <g class="keycap">
         <rect x="811" y="129.25" width="52" height="52" rx="5" class="outer"/>
         <rect x="817" y="132.25" width="40" height="40" rx="5" class="inner"/>
-        <text x="819.0" y="166.25" class="label level1">DEL</text>
+        <text x="819.0" y="166.25" class="label level1">BKS</text>
         <text x="819.0" y="149.25" class="label level2"></text>
         <text x="836.0" y="166.25" class="label level3"></text>
         <text x="836.0" y="149.25" class="label level4"></text>
