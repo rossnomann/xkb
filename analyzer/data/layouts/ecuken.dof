@@ -1,0 +1,21 @@
+{
+  "name": "ecuken",
+  "anchor": [0, 0],
+  "board": [
+    "k k k k k  k k k k k",
+    "k k k k k  k k k k k",
+    "k k k k k  k k k k k"
+  ],
+  "fingering": [
+    "0 1 2 3 3  6 6 7 8 9",
+    "0 1 2 3 3  6 6 7 8 9",
+    "0 1 2 3 3  6 6 7 8 9"
+  ],
+  "layers": {
+    "main": [
+      "э ц у к е  н г ш з х",
+      "ы в а п р  о л д ж ,",
+      "я ч с м и  т ь б ю ."
+    ]
+  }
+}
