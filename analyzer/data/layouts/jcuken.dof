@@ -1,0 +1,21 @@
+{
+  "name": "rieoy",
+  "anchor": [0, 0],
+  "board": [
+    "k k k k k  k k k k k k k",
+    " k k k k k  k k k k k k k",
+    "  k k k k k  k k k k k k k"
+  ],
+  "fingering": [
+    "0 1 2 3 3  6 6 7 8 9 9 9",
+    " 0 1 2 3 3  6 6 7 8 9 9 9",
+    "  0 1 2 3 3  6 6 7 8 9 9 9"
+  ],
+  "layers": {
+    "main": [
+      "й ц у к е  н г ш щ з х ъ",
+      " ф ы в а п  р о л д ж э ,",
+      "  я ч с м и  т ь б ю . ? !"
+    ]
+  }
+}
