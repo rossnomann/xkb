@@ -1,4 +1,4 @@
-corpus = "analyzer/data/corpus/russian.json"
+corpus = "analyzer/data/corpus/russian/monkeytype.json"
 layouts = ["analyzer/data/layouts"]
 corpus_configs = "analyzer/data"
 trigram_precision = 1000
