@@ -42,18 +42,24 @@ fn main() {
 fn run() -> Result<(), Error> {
     let args = Args::parse();
     let config = Config::with_loaded_weights(args.config).map_err(Error::load_config)?;
-    let layout_path = find_layout_path(
-        &config,
-        args.layout.as_ref().map_or("default.dof", |x| x.as_str()),
-    )?;
+    let layout_name = args.layout.as_ref().map_or("default.dof", |x| x.as_str());
+    let layout_path = find_layout_path(&config, layout_name)?;
     let dof_layout = load_dof_layout(layout_path)?;
     let data = load_corpus(&config, args.raw_corpus, &dof_layout)?;
     let generator = Oxeylyzer::new(data, config);
     let base_layout = Layout::from(dof_layout);
-    let pins = map_pins(&base_layout, args.pins.as_ref().map_or("", |x| x.as_str()));
-    let fast_layout =
-        generator.fast_layout(&base_layout, pins.as_ref().map_or(&[], |x| x.as_slice()));
+    let fast_layout = generator.fast_layout(&base_layout, &[]);
+    println!("{layout_name}");
     report_layout(&generator, &fast_layout);
+
+    let pins = map_pins(&base_layout, args.pins.as_ref().map_or("", |x| x.as_str()));
+    let optimized_layout =
+        generator.generate_with_pins(&fast_layout, pins.as_ref().map_or(&[], |x| x.as_slice()));
+    if pins.is_some() {
+        println!("{layout_name}: optimized");
+        report_layout(&generator, &optimized_layout);
+    }
+
     Ok(())
 }
 
