@@ -86,33 +86,24 @@ fn load_corpus(
 }
 
 fn create_corpus_cleaner(layout: &Dof) -> CorpusCleaner {
-    let alphabet = layout.layers().iter().flat_map(|(_name, layer)| {
-        layer.inner().iter().flat_map(|keys| {
-            keys.iter().filter_map(|key| {
-                if let Key::Char(c) = key {
-                    Some(*c)
-                } else {
-                    None
-                }
+    let alphabet: String = layout
+        .layers()
+        .iter()
+        .flat_map(|(_name, layer)| {
+            layer.inner().iter().flat_map(|keys| {
+                keys.iter().filter_map(|key| {
+                    if let Key::Char(c) = key {
+                        Some(*c)
+                    } else {
+                        None
+                    }
+                })
             })
         })
-    });
-    let uppercase_mappings = layout
-        .main_layer()
-        .inner()
-        .iter()
-        .flatten()
-        .zip(layout.shift_layer().inner().iter().flatten())
-        .filter_map(|(main, shift)| {
-            if let (Key::Char(a), Key::Char(b)) = (main, shift) {
-                Some((*a, *b))
-            } else {
-                None
-            }
-        });
+        .collect();
+    println!("{alphabet}");
     CorpusCleaner::builder()
-        .with_chars(alphabet)
-        .with_uppercase_mappings(uppercase_mappings)
+        .with_chars(alphabet.chars())
         .build()
 }
 
