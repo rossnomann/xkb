@@ -1,5 +1,5 @@
 corpus = "analyzer/data/corpus/russian/monkeytype.json"
-layouts = ["analyzer/data/layouts"]
+layouts = ["analyzer/data/layouts/ecuken"]
 corpus_configs = "analyzer/data"
 trigram_precision = 1000
 max_cores = 32
