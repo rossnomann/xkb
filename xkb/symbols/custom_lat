@@ -40,7 +40,7 @@ xkb_symbols "basic" {
     key <AC08>  { [ k, K, NoSymbol, NoSymbol ] };
     key <AC09>  { [ l, L,   lacute,   Lacute ] };
 
-    key <AC10>  { [  semicolon,      colon,      NoSymbol,        NoSymbol ] };
+    key <AC10>  { [      colon,  semicolon,      NoSymbol,        NoSymbol ] };
     key <AC11>  { [   quotedbl, apostrophe, guillemetleft,  guillemetright ] };
     key <BKSL>  { [      slash,  backslash,      NoSymbol,        NoSymbol ] };
 

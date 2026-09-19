@@ -38,7 +38,7 @@ xkb_symbols "basic" {
     key <AC07>  { [   Cyrillic_en,   Cyrillic_EN,        NoSymbol,        NoSymbol ] };
     key <AC08>  { [   Cyrillic_te,   Cyrillic_TE,        NoSymbol,        NoSymbol ] };
     key <AC09>  { [   Cyrillic_es,   Cyrillic_ES,        NoSymbol,        NoSymbol ] };
-    key <AC10>  { [     semicolon,         colon,        NoSymbol,        NoSymbol ] };
+    key <AC10>  { [         colon,     semicolon,        NoSymbol,        NoSymbol ] };
     key <AC11>  { [      quotedbl,    apostrophe,   guillemetleft,  guillemetright ] };
     key <BKSL>  { [         slash,     backslash,        NoSymbol,        NoSymbol ] };
 
